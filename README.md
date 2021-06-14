@@ -21,6 +21,8 @@
 19.  touch header.html
 20.  git add .
 21.  code .  // it is used to open the visual code studio
-22.  touch .gitignore  // it is used to ignore the files, whatever we mentioned in it
-23.  
-24.   
+22.  git checkout master  // in order to merge the branch to master 
+23.  git merge features/header   // it is used to merge to the master
+24.  touch .gitignore  // it is used to ignore the files, whatever we mentioned in it
+25.  
+26.   
